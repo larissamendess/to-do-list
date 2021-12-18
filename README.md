@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Projeto Finalizado 
+Projeto desenvolvido com React, Typescript, e Styled-Components
+
+![listatarefas1](https://user-images.githubusercontent.com/84946190/146644829-2222194a-fd92-42c1-bc33-d62e4ce4db61.png)
+![listadetarefas2](https://user-images.githubusercontent.com/84946190/146644842-f4563335-fc13-481d-bc39-b05c8734f10a.png)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
